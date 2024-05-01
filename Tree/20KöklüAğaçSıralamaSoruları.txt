@@ -1,0 +1,1492 @@
+
+------------Soru 1 --------------
+
+Preorder siralama
+F       T       A       J       D       S       R       G       K       I       P       C       O       E       M      UB       N       L       H
+Inorder siralama
+J       A       S       D       R       T       I       K       P       G       C       F       U       M       B      EN       L       O       H
+Postorder siralama
+J       S       R       D       A       I       P       K       C       G       T       U       B       M       L      NE       H       O       F
+  COZUMU
+0. yukseklik: F
+1. yukseklik: T  O
+2. yukseklik: A  G  E  H
+3. yukseklik: J  D  K  C  M  N  --  --
+4. yukseklik: --  --  S  R  I  P  --  --  U  B  --  L  --  --  --  --
+------------Soru 2 --------------
+
+Preorder siralama
+E       M       G       P       C       J       I       F       O       K       U       L       N       T       H      AR       D       B       S
+Inorder siralama
+P       C       G       J       I       M       O       K       F       U       E       T       N       A       H      LB       D       R       S
+Postorder siralama
+C       P       I       J       G       K       O       U       F       M       T       A       H       N       B      DS       R       L       E
+  COZUMU
+0. yukseklik: E
+1. yukseklik: M  L
+2. yukseklik: G  F  N  R
+3. yukseklik: P  J  O  U  T  H  D  S
+4. yukseklik: --  C  --  I  --  K  --  --  --  --  A  --  B  --  --  --
+------------Soru 3 --------------
+
+Preorder siralama
+U       C       D       N       S       J       E       M       O       H       L       A       I       B       G      FR       T       K       P
+Inorder siralama
+N       D       C       J       S       E       U       L       A       H       O       I       M       F       G      RB       K       T       P
+Postorder siralama
+N       D       J       E       S       C       A       L       H       I       O       F       R       G       K      PT       B       M       U
+  COZUMU
+0. yukseklik: U
+1. yukseklik: C  M
+2. yukseklik: D  S  O  B
+3. yukseklik: N  --  J  E  H  I  G  T
+4. yukseklik: --  --  --  --  --  --  --  --  L  --  --  --  F  R  K  P
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  A  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 4 --------------
+
+Preorder siralama
+D       P       N       F       K       E       S       J       L       M       U       C       R       A       H      GO       T       I       B
+Inorder siralama
+F       N       K       P       E       J       L       M       S       U       D       A       G       H       R      TO       C       B       I
+Postorder siralama
+F       K       N       M       L       J       U       S       E       P       G       H       A       T       O      RB       I       C       D
+  COZUMU
+0. yukseklik: D
+1. yukseklik: P  C
+2. yukseklik: N  E  R  I
+3. yukseklik: F  K  --  S  A  O  B  --
+4. yukseklik: --  --  --  --  --  --  J  U  --  H  T  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  L  --  --  --  --  G  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 5 --------------
+
+Preorder siralama
+M       F       K       G       A       J       P       I       E       L       S       C       N       R       O      T	D       U       H       B
+Inorder siralama
+G       A       K       J       F       I       P       L       E       S       M       O       R       N       C      U	H       D       T       B
+Postorder siralama
+A       G       J       K       I       L       S       E       P       F       O       R       N       H       U      D	B       T       C       M
+  COZUMU
+0. yukseklik: M
+1. yukseklik: F  C
+2. yukseklik: K  P  N  T
+3. yukseklik: G  J  I  E  R  --  D  B
+4. yukseklik: --  A  --  --  --  --  L  S  O  --  --  --  U  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  H  --  --  --  --  --  --
+------------Soru 6 --------------
+
+Preorder siralama
+G       F       B       S       C       U       N       H       J       A       L       D       E       M       T      RI       P       K       O
+Inorder siralama
+S       C       B       U       F       H       J       A       N       L       G       T       M       R       E      PI       D       K       O
+Postorder siralama
+C       S       U       B       A       J       H       L       N       F       T       R       M       P       I      EO       K       D       G
+  COZUMU
+0. yukseklik: G
+1. yukseklik: F  D
+2. yukseklik: B  N  E  K
+3. yukseklik: S  U  H  L  M  I  --  O
+4. yukseklik: --  C  --  --  --  J  --  --  T  R  P  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  A  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 7 --------------
+
+Preorder siralama
+I       R       A       P       J       C       U       N       T       M       B       S       G       E       H      DL       O       K       F
+Inorder siralama
+P       A       J       R       U       C       I       S       B       M       G       E       T       D       H      LO       N       K       F
+Postorder siralama
+P       J       A       U       C       R       S       B       E       G       M       D       O       L       H      TF       K       N       I
+  COZUMU
+0. yukseklik: I
+1. yukseklik: R  N
+2. yukseklik: A  C  T  K
+3. yukseklik: P  J  U  --  M  H  --  F
+4. yukseklik: --  --  --  --  --  --  --  --  B  G  D  L  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  S  --  --  E  --  --  --  O  --  --  --  --  --  --  --  --
+------------Soru 8 --------------
+
+Preorder siralama
+T       U       P       M       L       G       B       R       I       F       S       E       A       K       N      JO       D       C       H
+Inorder siralama
+M       P       L       U       R       B       G       I       T       A       E       K       S       N       F      DO       C       J       H
+Postorder siralama
+M       L       P       R       B       I       G       U       A       K       E       N       S       D       C      OH       J       F       T
+  COZUMU
+0. yukseklik: T
+1. yukseklik: U  F
+2. yukseklik: P  G  S  J
+3. yukseklik: M  L  B  I  E  N  O  H
+4. yukseklik: --  --  --  --  R  --  --  --  A  K  --  --  D  C  --  --
+------------Soru 9 --------------
+
+Preorder siralama
+F       N       A       B       E       H       M       R       D       U       P       O       L       G       I      SJ       T       K       C
+Inorder siralama
+E       B       R       M       H       A       D       N       O       L       P       U       F       S       I      JG       K       T       C
+Postorder siralama
+E       R       M       H       B       D       A       L       O       P       U       N       S       J       I      KC       T       G       F
+  COZUMU
+0. yukseklik: F
+1. yukseklik: N  G
+2. yukseklik: A  U  I  T
+3. yukseklik: B  D  P  --  S  J  K  C
+4. yukseklik: E  H  --  --  O  --  --  --  --  --  --  --  --  --  --  --
+5. yukseklik: --  --  M  --  --  --  --  --  --  L  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 10 --------------
+
+Preorder siralama
+G       D       J       F       H       L       P       O       T       U       E       I       R       K       M      CN       A       B       S
+Inorder siralama
+F       H       J       D       P       L       O       G       E       U       R       I       C       M       K      TB       A       S       N
+Postorder siralama
+H       F       J       P       O       L       D       E       R       C       M       K       I       U       B      SA       N       T       G
+  COZUMU
+0. yukseklik: G
+1. yukseklik: D  T
+2. yukseklik: J  L  U  N
+3. yukseklik: F  --  P  O  E  I  A  --
+4. yukseklik: --  H  --  --  --  --  --  --  --  --  R  K  B  S  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  M  --  --  --  --  --  --  --  --  --
+------------Soru 11 --------------
+
+Preorder siralama
+M       H       B       J       S       E       R       K       L       N       T       C       D       U       A      FP       I       G       O
+Inorder siralama
+J       B       K       R       E       L       S       N       H       C       T       U       D       F       A      MI       G       P       O
+Postorder siralama
+J       K       R       L       E       N       S       B       C       U       F       A       D       T       H      GI       O       P       M
+  COZUMU
+0. yukseklik: M
+1. yukseklik: H  P
+2. yukseklik: B  T  I  O
+3. yukseklik: J  S  C  D  --  G  --  --
+4. yukseklik: --  --  E  N  --  --  U  A  --  --  --  --  --  --  --  --
+5. yukseklik: --  --  --  --  R  L  --  --  --  --  --  --  --  --  F  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 12 --------------
+
+Preorder siralama
+H       S       D       R       K       N       J       G       M       B       I       E       T       F       O      LP       C       U       A
+Inorder siralama
+K       R       N       D       S       G       J       M       H       T       F       E       O       I       P      LB       U       C       A
+Postorder siralama
+K       N       R       D       G       M       J       S       F       T       O       E       P       L       I      UA       C       B       H
+  COZUMU
+0. yukseklik: H
+1. yukseklik: S  B
+2. yukseklik: D  J  I  C
+3. yukseklik: R  --  G  M  E  L  U  A
+4. yukseklik: K  N  --  --  --  --  --  --  T  O  P  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  F  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 13 --------------
+
+Preorder siralama
+M       B       I       L       R       U       O       C       D       J       P       S       G       A       K      FH       N       E       T
+Inorder siralama
+L       I       R       B       C       O       U       J       D       P       M       G       A       F       K      SE       N       H       T
+Postorder siralama
+L       R       I       C       O       J       P       D       U       B       F       K       A       G       E      NT       H       S       M
+  COZUMU
+0. yukseklik: M
+1. yukseklik: B  S
+2. yukseklik: I  U  G  H
+3. yukseklik: L  R  O  D  --  A  N  T
+4. yukseklik: --  --  --  --  C  --  J  P  --  --  --  K  E  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  F  --  --  --  --  --  --  --  --  --
+------------Soru 14 --------------
+
+Preorder siralama
+N       G       E       U       I       K       T       S       R       A       F       B       P       M       L      HD       O       C       J
+Inorder siralama
+I       U       E       K       T       G       F       A       R       B       S       P       M       N       H      OD       L       C       J
+Postorder siralama
+I       U       T       K       E       F       A       B       R       M       P       S       G       O       D      HJ       C       L       N
+  COZUMU
+0. yukseklik: N
+1. yukseklik: G  L
+2. yukseklik: E  S  H  C
+3. yukseklik: U  K  R  P  --  D  --  J
+4. yukseklik: I  --  --  T  A  B  --  M  --  --  O  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  F  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 15 --------------
+
+Preorder siralama
+K       L       C       E       N       O       A       J       P       U       G       R       M       F       S      BD       T       I       H
+Inorder siralama
+E       N       C       O       L       J       A       P       U       K       M       R       S       F       G      DB       I       T       H
+Postorder siralama
+N       E       O       C       J       U       P       A       L       M       S       F       R       D       I      HT       B       G       K
+  COZUMU
+0. yukseklik: K
+1. yukseklik: L  G
+2. yukseklik: C  A  R  B
+3. yukseklik: E  O  J  P  M  F  D  T
+4. yukseklik: --  N  --  --  --  --  --  U  --  --  S  --  --  --  I  H
+------------Soru 16 --------------
+
+Preorder siralama
+U       C       S       R       D       M       G       T       F       L       E       B       N       A       I      JP       K       O       H
+Inorder siralama
+R       S       D       C       T       G       F       M       L       U       A       N       I       B       K      PJ       E       O       H
+Postorder siralama
+R       D       S       T       F       G       L       M       C       A       I       N       K       P       J      BH       O       E       U
+  COZUMU
+0. yukseklik: U
+1. yukseklik: C  E
+2. yukseklik: S  M  B  O
+3. yukseklik: R  D  G  L  N  J  --  H
+4. yukseklik: --  --  --  --  T  F  --  --  A  I  P  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  K  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 17 --------------
+
+Preorder siralama
+K       B       D       S       U       H       I       N       M       R       F       O       A       P       C      TG       J       L       E
+Inorder siralama
+D       U       H       S       B       N       M       I       F       R       K       P       A       C       T      OL       J       G       E
+Postorder siralama
+H       U       S       D       M       N       F       R       I       B       P       T       C       A       L      JE       G       O       K
+  COZUMU
+0. yukseklik: K
+1. yukseklik: B  O
+2. yukseklik: D  I  A  G
+3. yukseklik: --  S  N  R  P  C  J  E
+4. yukseklik: --  --  U  --  --  M  F  --  --  --  --  T  L  --  --  --
+5. yukseklik: --  --  --  --  --  H  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 18 --------------
+
+Preorder siralama
+C       D       K       A       I       M       P       N       L       S       B       R       H       J       G      OT       E       U       F
+Inorder siralama
+A       K       M       I       D       N       P       L       C       R       H       B       S       G       T      OJ       E       F       U
+Postorder siralama
+A       M       I       K       N       L       P       D       H       R       B       T       O       G       F      UE       J       S       C
+  COZUMU
+0. yukseklik: C
+1. yukseklik: D  S
+2. yukseklik: K  P  B  J
+3. yukseklik: A  I  N  L  R  --  G  E
+4. yukseklik: --  --  M  --  --  --  --  --  --  H  --  --  --  O  --  U
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  T  --  --  --  F  --
+------------Soru 19 --------------
+
+Preorder siralama
+R       T       A       N       K       I       H       M       O       L       C       P       U       G       B      EJ       F       S       D
+Inorder siralama
+N       A       H       I       K       M       T       C       L       P       O       G       B       U       E      RJ       S       D       F
+Postorder siralama
+N       H       I       M       K       A       C       P       L       B       G       E       U       O       T      DS       F       J       R
+  COZUMU
+0. yukseklik: R
+1. yukseklik: T  J
+2. yukseklik: A  O  --  F
+3. yukseklik: N  K  L  U  --  --  S  --
+4. yukseklik: --  --  I  M  C  P  G  E  --  --  --  --  --  D  --  --
+5. yukseklik: --  --  --  --  H  --  --  --  --  --  --  --  --  B  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 20 --------------
+
+Preorder siralama
+C       J       D       T       E       R       L       N       I       S       K       F       G       U       M      OA       B       H       P
+Inorder siralama
+T       D       E       J       L       R       C       K       S       I       F       N       O       M       A      UG       P       H       B
+Postorder siralama
+T       E       D       L       R       J       K       S       F       I       O       A       M       U       P      HB       G       N       C
+  COZUMU
+0. yukseklik: C
+1. yukseklik: J  N
+2. yukseklik: D  R  I  G
+3. yukseklik: T  E  L  --  S  F  U  B
+4. yukseklik: --  --  --  --  --  --  --  --  K  --  --  --  M  --  H  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  O  A  --  --  P  --  --  --
+------------Soru 21 --------------
+
+Preorder siralama
+J       C       L       O       N       P       R       E       D       H       S       T       K       M       A      BF       U       I       G
+Inorder siralama
+O       L       C       R       P       E       D       H       N       S       J       A       M       K       T      UF       B       I       G
+Postorder siralama
+O       L       R       H       D       E       P       S       N       C       A       M       K       U       F      GI       B       T       J
+  COZUMU
+0. yukseklik: J
+1. yukseklik: C  T
+2. yukseklik: L  N  K  B
+3. yukseklik: O  --  P  S  M  --  F  I
+4. yukseklik: --  --  --  --  R  E  --  --  A  --  --  --  U  --  --  G
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  D  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 22 --------------
+
+Preorder siralama
+A       G       U       O       P       I       H       E       R       M       L       J       K       C       D      TS       B       F       N
+Inorder siralama
+P       I       O       U       G       E       M       R       L       H       K       J       C       D       A      ST       F       B       N
+Postorder siralama
+I       P       O       U       M       L       R       E       K       D       C       J       H       G       S      FN       B       T       A
+  COZUMU
+0. yukseklik: A
+1. yukseklik: G  T
+2. yukseklik: U  H  S  B
+3. yukseklik: O  --  E  J  --  --  F  N
+4. yukseklik: P  --  --  --  --  R  K  C  --  --  --  --  --  --  --  --
+5. yukseklik: --  I  --  --  --  --  --  --  --  --  M  L  --  --  --  D  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 23 --------------
+
+Preorder siralama
+A       G       B       T       K       I       J       C       S       P       N       M       H       R       U      LD       F       O       E
+Inorder siralama
+B       G       I       K       S       C       J       T       P       N       A       R       H       L       U      DF       M       E       O
+Postorder siralama
+B       I       S       C       J       K       N       P       T       G       R       L       F       D       U      HE       O       M       A
+  COZUMU
+0. yukseklik: A
+1. yukseklik: G  M
+2. yukseklik: B  T  H  O
+3. yukseklik: --  --  K  P  R  U  E  --
+4. yukseklik: --  --  --  --  I  J  --  N  --  --  L  D  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  C  --  --  --  --  --  --  --  --  --  --  --  --  F  --  --  --  --  --  --  --  --
+------------Soru 24 --------------
+
+Preorder siralama
+B       R       I       E       F       K       J       N       P       U       S       G       A       M       L      OD       C       H       T
+Inorder siralama
+E       F       I       N       J       K       P       R       U       S       B       L       O       M       A      DG       H       C       T
+Postorder siralama
+F       E       N       J       P       K       I       S       U       R       O       L       M       D       A      HT       C       G       B
+  COZUMU
+0. yukseklik: B
+1. yukseklik: R  G
+2. yukseklik: I  U  A  C
+3. yukseklik: E  K  --  S  M  D  H  T
+4. yukseklik: --  F  J  P  --  --  --  --  L  --  --  --  --  --  --  --
+5. yukseklik: --  --  --  --  N  --  --  --  --  --  --  --  --  --  --  --  --  O  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 25 --------------
+
+Preorder siralama
+S       H       B       F       D       A       K       U       P       O       L       R       J       T       I      EG       N       C       M
+Inorder siralama
+D       F       B       A       K       H       P       O       U       L       S       I       T       J       E      GR       N       M       C
+Postorder siralama
+D       F       K       A       B       O       P       L       U       H       I       T       G       E       J      MC       N       R       S
+  COZUMU
+0. yukseklik: S
+1. yukseklik: H  R
+2. yukseklik: B  U  J  N
+3. yukseklik: F  A  P  L  T  E  --  C
+4. yukseklik: D  --  --  K  --  O  --  --  I  --  --  G  --  --  M  --
+------------Soru 26 --------------
+
+Preorder siralama
+E       B       A       R       I       D       H       L       M       G       T       U       S       C       J      NP       K       F       O
+Inorder siralama
+D       I       R       A       B       G       M       L       H       T       E       J       C       N       S      PK       F       U       O
+Postorder siralama
+D       I       R       A       G       M       L       T       H       B       J       N       C       F       K      PS       O       U       E
+  COZUMU
+0. yukseklik: E
+1. yukseklik: B  U
+2. yukseklik: A  H  S  O
+3. yukseklik: R  --  L  T  C  P  --  --
+4. yukseklik: I  --  --  --  M  --  --  --  J  N  --  K  --  --  --  --
+5. yukseklik: D  --  --  --  --  --  --  --  G  --  --  --  --  --  --  --  --  --  --  --  --  --  --  F  --  --  --  --  --  --  --  --
+------------Soru 27 --------------
+
+Preorder siralama
+H       G       N       C       K       E       T       O       A       P       F       S       I       L       B      JU       R       D       M
+Inorder siralama
+K       C       N       E       G       T       O       H       S       F       P       I       B       L       A      UR       J       M       D
+Postorder siralama
+K       C       E       N       O       T       G       S       F       B       L       I       P       R       U      MD       J       A       H
+  COZUMU
+0. yukseklik: H
+1. yukseklik: G  A
+2. yukseklik: N  T  P  J
+3. yukseklik: C  E  --  O  F  I  U  D
+4. yukseklik: K  --  --  --  --  --  --  --  S  --  --  L  --  R  M  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  B  --  --  --  --  --  --  --  --  --
+------------Soru 28 --------------
+
+Preorder siralama
+G       J       D       M       R       I       N       S       P       L       O       K       U       F       C      BA       E       H       T
+Inorder siralama
+D       R       M       J       N       I       G       O       L       P       F       C       U       K       A      BS       H       E       T
+Postorder siralama
+R       M       D       N       I       J       O       L       C       F       U       A       B       K       P      HT       E       S       G
+  COZUMU
+0. yukseklik: G
+1. yukseklik: J  S
+2. yukseklik: D  I  P  E
+3. yukseklik: --  M  N  --  L  K  H  T
+4. yukseklik: --  --  R  --  --  --  --  --  O  --  U  B  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  F  --  A  --  --  --  --  --  --  --  --  --
+------------Soru 29 --------------
+
+Preorder siralama
+L       N       R       M       F       A       O       H       I       C       K       P       D       E       B      US       J       G       T
+Inorder siralama
+R       F       M       N       O       I       H       C       A       K       P       L       B       U       E      SD       J       T       G
+Postorder siralama
+F       M       R       I       C       H       O       P       K       A       N       U       B       S       E      TG       J       D       L
+  COZUMU
+0. yukseklik: L
+1. yukseklik: N  D
+2. yukseklik: R  A  E  J
+3. yukseklik: --  M  O  K  B  S  --  G
+4. yukseklik: --  --  F  --  --  H  --  P  --  U  --  --  --  --  T  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  I  C  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 30 --------------
+
+Preorder siralama
+B       J       U       M       N       R       H       C       S       G       O       T       P       L       E      IF       A       D       K
+Inorder siralama
+N       M       U       R       J       S       C       O       G       H       T       L       P       B       F      IA       E       D       K
+Postorder siralama
+N       M       R       U       S       O       G       C       L       P       T       H       J       F       A      IK       D       E       B
+  COZUMU
+0. yukseklik: B
+1. yukseklik: J  E
+2. yukseklik: U  H  I  D
+3. yukseklik: M  R  C  T  F  A  --  K
+4. yukseklik: N  --  --  --  S  G  --  P  --  --  --  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  O  --  --  --  L  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 31 --------------
+
+Preorder siralama
+A       G       T       S       P       U       B       J       D       C       N       E       H       I       M      OK       R       F       L
+Inorder siralama
+S       T       U       P       G       D       J       C       B       N       A       I       O       M       H      RK       E       L       F
+Postorder siralama
+S       U       P       T       D       C       J       N       B       G       O       M       I       R       K      HL       F       E       A
+  COZUMU
+0. yukseklik: A
+1. yukseklik: G  E
+2. yukseklik: T  B  H  F
+3. yukseklik: S  P  J  N  I  K  L  --
+4. yukseklik: --  --  U  --  D  C  --  --  --  M  R  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  O  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 32 --------------
+
+Preorder siralama
+E       P       A       I       R       O       M       S       J       F       K       L       D       C       U      BT       H       G       N
+Inorder siralama
+I       R       A       M       S       O       P       F       J       K       L       E       U       C       B      TD       G       H       N
+Postorder siralama
+R       I       S       M       O       A       F       L       K       J       P       U       T       B       C      GN       H       D       E
+  COZUMU
+0. yukseklik: E
+1. yukseklik: P  D
+2. yukseklik: A  J  C  H
+3. yukseklik: I  O  F  K  U  B  G  N
+4. yukseklik: --  R  M  --  --  --  --  L  --  --  --  T  --  --  --  --
+5. yukseklik: --  --  --  --  --  S  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 33 --------------
+
+Preorder siralama
+M       K       F       J       A       I       B       D       P       T       R       O       L       E       H      CG       U       S       N
+Inorder siralama
+I       A       J       B       F       D       P       K       R       T       L       O       M       C       H      ES       U       G       N
+Postorder siralama
+I       A       B       J       P       D       F       R       L       O       T       K       C       H       S      UN       G       E       M
+  COZUMU
+0. yukseklik: M
+1. yukseklik: K  E
+2. yukseklik: F  T  H  G
+3. yukseklik: J  D  R  O  C  --  U  N
+4. yukseklik: A  B  --  P  --  --  L  --  --  --  --  --  S  --  --  --
+5. yukseklik: I  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 34 --------------
+
+Preorder siralama
+G       O       I       D       F       S       T       H       A       C       J       M       R       N       L      UB       E       K       P
+Inorder siralama
+F       D       I       O       S       H       T       G       J       R       M       C       L       N       A      KE       B       U       P
+Postorder siralama
+F       D       I       H       T       S       O       R       M       J       L       N       C       K       E      BP       U       A       G
+  COZUMU
+0. yukseklik: G
+1. yukseklik: O  A
+2. yukseklik: I  S  C  U
+3. yukseklik: D  --  --  T  J  N  B  P
+4. yukseklik: F  --  --  --  --  --  H  --  --  M  L  --  E  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  R  --  --  --  --  --  K  --  --  --  --  --  --  --
+------------Soru 35 --------------
+
+Preorder siralama
+M       E       A       K       F       T       L       J       O       S       P       C       D       H       G      UI       N       R       B
+Inorder siralama
+K       A       F       E       L       T       J       M       D       C       P       S       H       G       U      ON       R       I       B
+Postorder siralama
+K       F       A       L       J       T       E       D       C       P       U       G       H       S       R      NB       I       O       M
+  COZUMU
+0. yukseklik: M
+1. yukseklik: E  O
+2. yukseklik: A  T  S  I
+3. yukseklik: K  F  L  J  P  H  N  B
+4. yukseklik: --  --  --  --  --  --  --  --  C  --  --  G  --  R  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  D  --  --  --  --  --  --  U  --  --  --  --  --  --  --  --
+------------Soru 36 --------------
+
+Preorder siralama
+M       R       N       L       U       P       K       I       D       S       G       A       T       E       F      OH       J       B       C
+Inorder siralama
+N       R       P       U       L       K       I       M       S       A       T       G       E       D       H      JO       F       C       B
+Postorder siralama
+N       P       U       I       K       L       R       T       A       E       G       S       J       H       O      CB       F       D       M
+  COZUMU
+0. yukseklik: M
+1. yukseklik: R  D
+2. yukseklik: N  L  S  F
+3. yukseklik: --  --  U  K  --  G  O  B
+4. yukseklik: --  --  --  --  P  --  --  I  --  --  A  E  H  --  C  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  T  --  --  --  J  --  --  --  --  --  --
+------------Soru 37 --------------
+
+Preorder siralama
+O       M       B       I       C       U       E       J       F       R       N       A       P       G       K      DT       L       H       S
+Inorder siralama
+I       B       E       U       C       M       F       J       R       N       O       K       G       P       D      AL       T       H       S
+Postorder siralama
+I       E       U       C       B       F       N       R       J       M       K       G       D       P       L      SH       T       A       O
+  COZUMU
+0. yukseklik: O
+1. yukseklik: M  A
+2. yukseklik: B  J  P  T
+3. yukseklik: I  C  F  R  G  D  L  H
+4. yukseklik: --  --  U  --  --  --  --  N  K  --  --  --  --  --  --  S
+5. yukseklik: --  --  --  --  E  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 38 --------------
+
+Preorder siralama
+M       S       P       E       T       N       R       B       F       K       I       O       D       H       L      UA       J       G       C
+Inorder siralama
+T       E       P       N       S       B       F       R       K       M       H       D       O       I       A      UJ       L       G       C
+Postorder siralama
+T       E       N       P       F       B       K       R       S       H       D       O       A       J       U      CG       L       I       M
+  COZUMU
+0. yukseklik: M
+1. yukseklik: S  I
+2. yukseklik: P  R  O  L
+3. yukseklik: E  N  B  K  D  --  U  G
+4. yukseklik: T  --  --  --  --  F  --  --  H  --  --  --  A  J  --  C
+------------Soru 39 --------------
+
+Preorder siralama
+F       D       C       K       O       R       G       H       M       P       N       U       S       J       E      BI       L       A       T
+Inorder siralama
+O       K       C       R       G       D       M       P       H       U       N       S       F       B       E      IJ       A       L       T
+Postorder siralama
+O       K       G       R       C       P       M       U       S       N       H       D       B       I       E      AT       L       J       F
+  COZUMU
+0. yukseklik: F
+1. yukseklik: D  J
+2. yukseklik: C  H  E  L
+3. yukseklik: K  R  M  N  B  I  A  T
+4. yukseklik: O  --  --  G  --  P  U  S  --  --  --  --  --  --  --  --
+------------Soru 40 --------------
+
+Preorder siralama
+B       P       I       M       A       S       H       C       D       U       R       G       E       F       K      OJ       N       L       T
+Inorder siralama
+M       A       I       H       S       P       D       C       U       R       B       E       K       F       G      JN       O       T       L
+Postorder siralama
+A       M       H       S       I       D       R       U       C       P       K       F       E       N       J      TL       O       G       B
+  COZUMU
+0. yukseklik: B
+1. yukseklik: P  G
+2. yukseklik: I  C  E  O
+3. yukseklik: M  S  D  U  --  F  J  L
+4. yukseklik: --  A  H  --  --  --  --  R  --  --  K  --  --  N  T  --
+------------Soru 41 --------------
+
+Preorder siralama
+P       J       H       N       T       R       K       C       O       M       I       U       B       L       E      GD       F       S       A
+Inorder siralama
+N       T       H       K       R       C       J       I       U       M       B       O       L       P       D      GE       S       F       A
+Postorder siralama
+T       N       K       C       R       H       U       I       B       M       L       O       J       D       G      SA       F       E       P
+  COZUMU
+0. yukseklik: P
+1. yukseklik: J  E
+2. yukseklik: H  O  G  F
+3. yukseklik: N  R  M  L  D  --  S  A
+4. yukseklik: --  T  K  C  I  B  --  --  --  --  --  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  U  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 42 --------------
+
+Preorder siralama
+A       F       H       L       M       E       T       R       G       P       N       B       D       U       J      IS       O       K       C
+Inorder siralama
+M       L       H       E       T       F       P       N       G       B       R       A       I       J       U      SK       O       D       C
+Postorder siralama
+M       L       T       E       H       N       P       B       G       R       F       I       J       K       O      SU       C       D       A
+  COZUMU
+0. yukseklik: A
+1. yukseklik: F  D
+2. yukseklik: H  R  U  C
+3. yukseklik: L  E  G  --  J  S  --  --
+4. yukseklik: M  --  --  T  P  B  --  --  I  --  --  O  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  N  --  --  --  --  --  --  --  --  --  --  --  --  K  --  --  --  --  --  --  --  --  --
+------------Soru 43 --------------
+
+Preorder siralama
+T       J       P       R       N       E       G       H       F       S       A       K       M       U       L      BD       C       O       I
+Inorder siralama
+N       E       R       G       P       H       J       S       F       K       A       T       M       B       L      DU       O       C       I
+Postorder siralama
+E       N       G       R       H       P       S       K       A       F       J       B       D       L       O      IC       U       M       T
+  COZUMU
+0. yukseklik: T
+1. yukseklik: J  M
+2. yukseklik: P  F  --  U
+3. yukseklik: R  H  S  A  --  --  L  C
+4. yukseklik: N  G  --  --  --  --  K  --  --  --  --  --  B  D  O  I
+5. yukseklik: --  E  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 44 --------------
+
+Preorder siralama
+N       R       C       T       O       E       H       M       G       S       J       B       D       L       A      KP       F       U       I
+Inorder siralama
+C       E       O       T       R       G       M       S       J       H       N       L       D       A       B      FP       K       I       U
+Postorder siralama
+E       O       T       C       G       J       S       M       H       R       L       A       D       F       P      IU       K       B       N
+  COZUMU
+0. yukseklik: N
+1. yukseklik: R  B
+2. yukseklik: C  H  D  K
+3. yukseklik: --  T  M  --  L  A  P  U
+4. yukseklik: --  --  O  --  G  S  --  --  --  --  --  --  F  --  I  --
+5. yukseklik: --  --  --  --  E  --  --  --  --  --  --  J  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 45 --------------
+
+Preorder siralama
+S       C       A       L       J       R       D       F       H       P       T       M       B       O       U      GK       I       N       E
+Inorder siralama
+L       A       C       D       R       F       J       H       P       S       U       O       G       B       K      MI       T       E       N
+Postorder siralama
+L       A       D       F       R       P       H       J       C       U       G       O       K       B       I      ME       N       T       S
+  COZUMU
+0. yukseklik: S
+1. yukseklik: C  T
+2. yukseklik: A  J  M  N
+3. yukseklik: L  --  R  H  B  I  E  --
+4. yukseklik: --  --  --  --  D  F  --  P  O  K  --  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  U  G  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 46 --------------
+
+Preorder siralama
+D       I       F       S       J       B       R       G       L       U       M       A       O       T       K      HP       N       E       C
+Inorder siralama
+S       J       F       I       G       R       B       L       D       M       T       O       A       K       U      NP       H       C       E
+Postorder siralama
+J       S       F       G       R       L       B       I       T       O       K       A       M       N       P      CE       H       U       D
+  COZUMU
+0. yukseklik: D
+1. yukseklik: I  U
+2. yukseklik: F  B  M  H
+3. yukseklik: S  --  R  L  --  A  P  E
+4. yukseklik: --  J  --  --  G  --  --  --  --  --  O  K  N  --  C  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  T  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 47 --------------
+
+Preorder siralama
+G       M       H       U       S       D       A       F       J       E       L       I       K       C       P      TB       N       O       R
+Inorder siralama
+S       D       U       H       A       M       J       F       L       E       K       C       I       G       B      TP       N       R       O
+Postorder siralama
+D       S       U       A       H       J       L       C       K       I       E       F       M       B       T      RO       N       P       G
+  COZUMU
+0. yukseklik: G
+1. yukseklik: M  P
+2. yukseklik: H  F  T  N
+3. yukseklik: U  A  J  E  B  --  --  O
+4. yukseklik: S  --  --  --  --  --  L  I  --  --  --  --  --  --  R  --
+5. yukseklik: --  D  --  --  --  --  --  --  --  --  --  --  --  --  K  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 48 --------------
+
+Preorder siralama
+C       B       N       A       P       M       D       R       L       O       K       H       I       T       S      UF       E       G       J
+Inorder siralama
+P       A       M       N       D       B       L       R       O       C       T       I       H       S       K      FG       E       U       J
+Postorder siralama
+P       M       A       D       N       L       O       R       B       T       I       S       H       G       E      FJ       U       K       C
+  COZUMU
+0. yukseklik: C
+1. yukseklik: B  K
+2. yukseklik: N  R  H  U
+3. yukseklik: A  D  L  O  I  S  F  J
+4. yukseklik: P  M  --  --  --  --  --  --  T  --  --  --  --  E  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  G  --  --  --  --  --
+------------Soru 49 --------------
+
+Preorder siralama
+H       F       B       S       N       T       K       R       U       I       P       J       G       E       O      AM       C       L       D
+Inorder siralama
+T       N       K       S       I       U       R       B       P       J       F       G       E       H       O      LC       M       A       D
+Postorder siralama
+T       K       N       I       U       R       S       J       P       B       E       G       F       L       C      MD       A       O       H
+  COZUMU
+0. yukseklik: H
+1. yukseklik: F  O
+2. yukseklik: B  G  --  A
+3. yukseklik: S  P  --  E  --  --  M  D
+4. yukseklik: N  R  --  J  --  --  --  --  --  --  --  --  C  --  --  --
+5. yukseklik: T  K  U  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  L  --  --  --  --  --  --  --
+------------Soru 50 --------------
+
+Preorder siralama
+C       J       G       S       F       D       A       P       I       E       U       N       B       H       T      OK       R       M       L
+Inorder siralama
+S       F       G       D       P       A       J       U       E       I       C       H       T       B       O      NR       K       M       L
+Postorder siralama
+F       S       P       A       D       G       U       E       I       J       T       H       O       B       R      LM       K       N       C
+  COZUMU
+0. yukseklik: C
+1. yukseklik: J  N
+2. yukseklik: G  I  B  K
+3. yukseklik: S  D  E  --  H  O  R  M
+4. yukseklik: --  F  --  A  U  --  --  --  --  T  --  --  --  --  --  L
+5. yukseklik: --  --  --  --  --  --  P  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 51 --------------
+
+Preorder siralama
+M       R       N       C       F       U       E       I       T       O       G       L       D       A       S      KJ       P       B       H
+Inorder siralama
+F       U       C       N       E       R       T       I       O       M       S       A       K       D       L      JP       B       G       H
+Postorder siralama
+U       F       C       E       N       T       O       I       R       S       K       A       D       B       P      JL       H       G       M
+  COZUMU
+0. yukseklik: M
+1. yukseklik: R  G
+2. yukseklik: N  I  L  H
+3. yukseklik: C  E  T  O  D  J  --  --
+4. yukseklik: F  --  --  --  --  --  --  --  A  --  --  P  --  --  --  --
+5. yukseklik: --  U  --  --  --  --  --  --  --  --  --  --  --  --  --  --  S  K  --  --  --  --  --  B  --  --  --  --  --  --  --  --
+------------Soru 52 --------------
+
+Preorder siralama
+F       E       B       H       T       A       N       S       L       O       K       C       U       J       D      IP       M       R       G
+Inorder siralama
+A       T       H       N       B       L       S       E       K       O       C       J       U       D       F      PM       I       R       G
+Postorder siralama
+A       T       N       H       L       S       B       K       J       D       U       C       O       E       M      PG       R       I       F
+  COZUMU
+0. yukseklik: F
+1. yukseklik: E  I
+2. yukseklik: B  O  P  R
+3. yukseklik: H  S  K  C  --  M  --  G
+4. yukseklik: T  N  L  --  --  --  --  U  --  --  --  --  --  --  --  --
+5. yukseklik: A  --  --  --  --  --  --  --  --  --  --  --  --  --  J  D  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 53 --------------
+
+Preorder siralama
+J       H       U       S       P       I       B       T       D       N       C       R       K       L       F      MO       E       G       A
+Inorder siralama
+S       P       U       B       I       H       D       T       R       C       N       K       J       M       F      LE       G       O       A
+Postorder siralama
+P       S       B       I       U       D       R       C       K       N       T       H       M       F       G      EA       O       L       J
+  COZUMU
+0. yukseklik: J
+1. yukseklik: H  L
+2. yukseklik: U  T  F  O
+3. yukseklik: S  I  D  N  M  --  E  A
+4. yukseklik: --  P  B  --  --  --  C  K  --  --  --  --  --  G  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  R  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 54 --------------
+
+Preorder siralama
+U       D       S       B       L       A       C       P       G       N       M       E       O       I       J      TF       H       K       R
+Inorder siralama
+L       B       S       D       P       C       A       N       G       M       U       O       I       J       E      HF       T       K       R
+Postorder siralama
+L       B       S       P       C       N       M       G       A       D       J       I       O       H       F      RK       T       E       U
+  COZUMU
+0. yukseklik: U
+1. yukseklik: D  E
+2. yukseklik: S  A  O  T
+3. yukseklik: B  --  C  G  --  I  F  K
+4. yukseklik: L  --  --  --  P  --  N  M  --  --  --  J  H  --  --  R
+------------Soru 55 --------------
+
+Preorder siralama
+J       F       K       H       C       A       L       O       M       B       S       I       P       U       D      RE       T       N       G
+Inorder siralama
+C       H       L       A       O       K       F       J       I       S       B       D       U       P       M      ER       N       G       T
+Postorder siralama
+C       L       O       A       H       K       F       I       S       D       U       P       B       E       G      NT       R       M       J
+  COZUMU
+0. yukseklik: J
+1. yukseklik: F  M
+2. yukseklik: K  --  B  R
+3. yukseklik: H  --  --  --  S  P  E  T
+4. yukseklik: C  A  --  --  --  --  --  --  I  --  U  --  --  --  N  --
+5. yukseklik: --  --  L  O  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  D  --  --  --  --  --  --  --  --  G  --  --
+------------Soru 56 --------------
+
+Preorder siralama
+P       R       D       E       J       N       T       K       U       A       O       C       I       M       L      FH       G       S       B
+Inorder siralama
+E       D       J       R       T       N       U       K       P       I       C       O       L       M       F      AS       G       H       B
+Postorder siralama
+E       J       D       T       U       K       N       R       I       C       L       F       M       O       S      GB       H       A       P
+  COZUMU
+0. yukseklik: P
+1. yukseklik: R  A
+2. yukseklik: D  N  O  H
+3. yukseklik: E  J  T  K  C  M  G  B
+4. yukseklik: --  --  --  --  --  --  U  --  I  --  L  F  S  --  --  --
+------------Soru 57 --------------
+
+Preorder siralama
+T       F       J       O       H       U       A       R       M       S       B       I       E       K       D      LN       C       P       G
+Inorder siralama
+J       O       U       A       H       F       R       B       S       M       I       T       L       D       K      NE       P       C       G
+Postorder siralama
+A       U       H       O       J       B       S       I       M       R       F       L       D       N       K      PG       C       E       T
+  COZUMU
+0. yukseklik: T
+1. yukseklik: F  E
+2. yukseklik: J  R  K  C
+3. yukseklik: --  O  --  M  D  N  P  G
+4. yukseklik: --  --  --  H  --  --  S  I  L  --  --  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  U  --  --  --  --  --  B  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 58 --------------
+
+Preorder siralama
+B       U       F       J       D       G       O       H       P       L       M       C       T       I       A      ER       S       N       K
+Inorder siralama
+F       J       U       G       P       H       O       D       B       C       M       T       L       E       R      AI       S       K       N
+Postorder siralama
+J       F       P       H       O       G       D       U       C       T       M       R       E       A       K      NS       I       L       B
+  COZUMU
+0. yukseklik: B
+1. yukseklik: U  L
+2. yukseklik: F  D  M  I
+3. yukseklik: --  J  G  --  C  T  A  S
+4. yukseklik: --  --  --  --  --  O  --  --  --  --  --  --  E  --  --  N
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  H  --  --  --  --  --  --  --  --  --  --  --  --  --  --  R  --  --  --  --  K  --
+------------Soru 59 --------------
+
+Preorder siralama
+C       A       P       I       S       R       G       T       M       O       F       L       B       E       U      KD       J       N       H
+Inorder siralama
+R       S       I       P       G       T       A       O       M       C       E       B       L       K       U      FN       J       D       H
+Postorder siralama
+R       S       I       T       G       P       O       M       A       E       B       K       U       L       N      JH       D       F       C
+  COZUMU
+0. yukseklik: C
+1. yukseklik: A  F
+2. yukseklik: P  M  L  D
+3. yukseklik: I  G  O  --  B  U  J  H
+4. yukseklik: S  --  --  T  --  --  --  --  E  --  K  --  N  --  --  --
+5. yukseklik: R  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 60 --------------
+
+Preorder siralama
+A       H       U       G       M       L       K       B       C       T       F       N       S       D       P      JO       E       R       I
+Inorder siralama
+G       M       U       K       L       H       T       F       C       B       N       A       P       O       J      DS       R       I       E
+Postorder siralama
+M       G       K       L       U       F       T       C       N       B       H       O       J       P       D      IR       E       S       A
+  COZUMU
+0. yukseklik: A
+1. yukseklik: H  S
+2. yukseklik: U  B  D  E
+3. yukseklik: G  L  C  N  P  --  R  --
+4. yukseklik: --  M  K  --  T  --  --  --  --  J  --  --  --  I  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  F  --  --  --  --  --  --  --  --  O  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 61 --------------
+
+Preorder siralama
+H       F       T       A       U       E       J       C       D       S       R       G       K       I       B      LM       N       O       P
+Inorder siralama
+A       T       U       F       J       E       D       C       S       R       H       I       K       L       B      GN       M       O       P
+Postorder siralama
+A       U       T       J       D       R       S       C       E       F       I       L       B       K       N      PO       M       G       H
+  COZUMU
+0. yukseklik: H
+1. yukseklik: F  G
+2. yukseklik: T  E  K  M
+3. yukseklik: A  U  J  C  I  B  N  O
+4. yukseklik: --  --  --  --  --  --  D  S  --  --  L  --  --  --  --  P
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  R  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 62 --------------
+
+Preorder siralama
+A       B       J       S       M       O       D       L       H       I       T       F       R       C       U      KG       N       P       E
+Inorder siralama
+S       J       M       O       B       H       L       D       A       C       R       F       U       T       K      IN       G       P       E
+Postorder siralama
+S       O       M       J       H       L       D       B       C       R       U       F       K       T       N      EP       G       I       A
+  COZUMU
+0. yukseklik: A
+1. yukseklik: B  I
+2. yukseklik: J  D  T  G
+3. yukseklik: S  M  L  --  F  K  N  P
+4. yukseklik: --  --  --  O  H  --  --  --  R  U  --  --  --  --  --  E
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  C  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 63 --------------
+
+Preorder siralama
+B       S       J       K       N       F       M       E       T       O       D       C       A       G       P      IH       R       U       L
+Inorder siralama
+J       N       K       S       M       F       E       O       T       B       G       A       I       P       C      HR       D       L       U
+Postorder siralama
+N       K       J       M       O       T       E       F       S       G       I       P       A       R       H      CL       U       D       B
+  COZUMU
+0. yukseklik: B
+1. yukseklik: S  D
+2. yukseklik: J  F  C  U
+3. yukseklik: --  K  M  E  A  H  L  --
+4. yukseklik: --  --  N  --  --  --  --  T  G  P  --  R  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  O  --  --  --  I  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 64 --------------
+
+Preorder siralama
+F       P       M       S       L       K       J       G       I       B       A       E       O       R       T      UH       C       N       D
+Inorder siralama
+S       M       P       K       J       L       G       F       B       A       I       T       R       U       O      HE       D       N       C
+Postorder siralama
+S       M       J       K       G       L       P       A       B       T       U       R       H       O       D      NC       E       I       F
+  COZUMU
+0. yukseklik: F
+1. yukseklik: P  I
+2. yukseklik: M  L  B  E
+3. yukseklik: S  --  K  G  --  A  O  C
+4. yukseklik: --  --  --  --  --  J  --  --  --  --  --  --  R  H  N  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  T  U  --  --  D  --  --  --
+------------Soru 65 --------------
+
+Preorder siralama
+C       I       D       O       L       E       A       N       T       K       H       P       J       G       R      FS       B       M       U
+Inorder siralama
+O       D       E       L       A       I       T       N       H       P       K       C       G       R       J      SF       M       B       U
+Postorder siralama
+O       E       A       L       D       T       P       H       K       N       I       R       G       S       M      UB       F       J       C
+  COZUMU
+0. yukseklik: C
+1. yukseklik: I  J
+2. yukseklik: D  N  G  F
+3. yukseklik: O  L  T  K  --  R  S  B
+4. yukseklik: --  --  E  A  --  --  H  --  --  --  --  --  --  --  M  U
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  P  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 66 --------------
+
+Preorder siralama
+B       D       O       N       G       C       H       P       L       E       M       K       A       F       T      SI       U       R       J
+Inorder siralama
+G       N       O       H       C       P       D       L       B       K       M       E       T       F       S      IA       R       U       J
+Postorder siralama
+G       N       H       P       C       O       L       D       K       M       T       I       S       F       R      JU       A       E       B
+  COZUMU
+0. yukseklik: B
+1. yukseklik: D  E
+2. yukseklik: O  L  M  A
+3. yukseklik: N  C  --  --  K  --  F  U
+4. yukseklik: G  --  H  P  --  --  --  --  --  --  --  --  T  S  R  J
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  I  --  --  --  --
+------------Soru 67 --------------
+
+Preorder siralama
+U       N       S       O       H       D       T       A       C       R       F       P       K       J       I      GE       M       B       L
+Inorder siralama
+S       O       H       N       T       D       A       U       F       P       R       K       C       E       G      IJ       M       B       L
+Postorder siralama
+H       O       S       T       A       D       N       P       F       K       R       E       G       I       L      BM       J       C       U
+  COZUMU
+0. yukseklik: U
+1. yukseklik: N  C
+2. yukseklik: S  D  R  J
+3. yukseklik: --  O  T  A  F  K  I  M
+4. yukseklik: --  --  --  H  --  --  --  --  --  P  --  --  G  --  --  B
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  E  --  --  --  --  --  --  L
+------------Soru 68 --------------
+
+Preorder siralama
+C       F       B       G       L       S       U       H       A       M       T       K       O       N       I      PJ       R       E       D
+Inorder siralama
+B       F       S       L       G       U       A       H       C       K       T       M       I       N       J      PR       O       E       D
+Postorder siralama
+B       S       L       A       H       U       G       F       K       T       I       J       R       P       N      DE       O       M       C
+  COZUMU
+0. yukseklik: C
+1. yukseklik: F  M
+2. yukseklik: B  G  T  O
+3. yukseklik: --  --  L  U  K  --  N  E
+4. yukseklik: --  --  --  --  S  --  --  H  --  --  --  --  I  P  --  D
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  A  --  --  --  --  --  --  --  --  --  --  --  J  R  --  --  --  --
+------------Soru 69 --------------
+
+Preorder siralama
+U       L       D       T       O       R       I       H       F       K       J       G       B       P       M      SE       A       N       C
+Inorder siralama
+T       O       D       R       I       L       F       K       H       J       U       M       P       S       B      GA       N       E       C
+Postorder siralama
+O       T       I       R       D       K       F       J       H       L       M       S       P       B       N      AC       E       G       U
+  COZUMU
+0. yukseklik: U
+1. yukseklik: L  G
+2. yukseklik: D  H  B  E
+3. yukseklik: T  R  F  J  P  --  A  C
+4. yukseklik: --  O  --  I  --  K  --  --  M  S  --  --  --  N  --  --
+------------Soru 70 --------------
+
+Preorder siralama
+O       D       J       R       S       K       L       I       M       C       E       A       N       T       G      HP       B       U       F
+Inorder siralama
+R       J       S       D       L       K       I       O       C       A       N       E       T       M       H      PG       U       B       F
+Postorder siralama
+R       S       J       L       I       K       D       N       A       T       E       C       P       H       U      FB       G       M       O
+  COZUMU
+0. yukseklik: O
+1. yukseklik: D  M
+2. yukseklik: J  K  C  G
+3. yukseklik: R  S  L  I  --  E  H  B
+4. yukseklik: --  --  --  --  --  --  --  --  --  --  A  T  --  P  U  F
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  N  --  --  --  --  --  --  --  --  --  --
+------------Soru 71 --------------
+
+Preorder siralama
+B       N       A       R       H       K       D       P       F       L       I       T       C       S       G      OU       J       M       E
+Inorder siralama
+R       H       A       K       D       N       F       L       P       T       I       B       G       S       C      UO       J       M       E
+Postorder siralama
+H       R       D       K       A       L       F       T       I       P       N       G       S       U       E      MJ       O       C       B
+  COZUMU
+0. yukseklik: B
+1. yukseklik: N  C
+2. yukseklik: A  P  S  O
+3. yukseklik: R  K  F  I  G  --  U  J
+4. yukseklik: --  H  --  D  --  L  T  --  --  --  --  --  --  --  --  M
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  E
+------------Soru 72 --------------
+
+Preorder siralama
+A       H       T       N       S       E       I       K       M       C       J       O       G       P       B      LF       D       U       R
+Inorder siralama
+N       T       S       H       I       E       A       J       C       O       M       P       G       K       D      FL       U       B       R
+Postorder siralama
+N       S       T       I       E       H       J       O       C       P       G       M       D       F       U      LR       B       K       A
+  COZUMU
+0. yukseklik: A
+1. yukseklik: H  K
+2. yukseklik: T  E  M  B
+3. yukseklik: N  S  I  --  C  G  L  R
+4. yukseklik: --  --  --  --  --  --  --  --  J  O  P  --  F  U  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  D  --  --  --  --  --  --  --
+------------Soru 73 --------------
+
+Preorder siralama
+F       J       K       S       E       B       R       I       G       H       D       A       U       M       T      CP       N       O       L
+Inorder siralama
+S       K       J       R       B       E       G       I       H       F       M       U       A       C       P      TD       O       N       L
+Postorder siralama
+S       K       R       B       G       H       I       E       J       M       U       P       C       T       A      OL       N       D       F
+  COZUMU
+0. yukseklik: F
+1. yukseklik: J  D
+2. yukseklik: K  E  A  N
+3. yukseklik: S  --  B  I  U  T  O  L
+4. yukseklik: --  --  --  --  R  --  G  H  M  --  C  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  P  --  --  --  --  --  --  --  --  --  --
+------------Soru 74 --------------
+
+Preorder siralama
+M       N       S       R       F       P       T       J       U       B       E       D       I       G       H      CO       L       A       K
+Inorder siralama
+R       S       P       F       N       J       T       U       M       D       G       I       E       C       H      BO       A       L       K
+Postorder siralama
+R       P       F       S       J       U       T       N       G       I       D       C       H       E       A      KL       O       B       M
+  COZUMU
+0. yukseklik: M
+1. yukseklik: N  B
+2. yukseklik: S  T  E  O
+3. yukseklik: R  F  J  U  D  H  --  L
+4. yukseklik: --  --  P  --  --  --  --  --  --  I  C  --  --  --  A  K
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  G  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 75 --------------
+
+Preorder siralama
+F       E       R       O       B       T       S       C       D       U       L       G       I       P       A      NJ       K       M       H
+Inorder siralama
+R       O       T       B       E       C       D       S       U       F       I       P       G       N       A      LK       J       H       M
+Postorder siralama
+T       B       O       R       D       C       U       S       E       P       I       N       A       G       K      HM       J       L       F
+  COZUMU
+0. yukseklik: F
+1. yukseklik: E  L
+2. yukseklik: R  S  G  J
+3. yukseklik: --  O  C  U  I  A  K  M
+4. yukseklik: --  --  --  B  --  D  --  --  --  P  N  --  --  --  H  --
+5. yukseklik: --  --  --  --  --  --  T  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 76 --------------
+
+Preorder siralama
+D       N       M       S       U       I       O       T       G       H       F       E       L       B       P      CJ       A       R       K
+Inorder siralama
+S       M       U       N       T       O       I       H       G       D       L       E       B       C       P      FR       A       J       K
+Postorder siralama
+S       U       M       T       O       H       G       I       N       L       C       P       B       E       R      AK       J       F       D
+  COZUMU
+0. yukseklik: D
+1. yukseklik: N  F
+2. yukseklik: M  I  E  J
+3. yukseklik: S  U  O  G  L  B  A  K
+4. yukseklik: --  --  --  --  T  --  H  --  --  --  --  P  R  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  C  --  --  --  --  --  --  --  --  --
+------------Soru 77 --------------
+
+Preorder siralama
+T       F       M       I       P       N       R       H       C       J       K       L       B       A       O      GU       D       E       S
+Inorder siralama
+P       I       M       F       H       R       J       C       K       N       B       L       T       G       O      DU       A       S       E
+Postorder siralama
+P       I       M       H       J       K       C       R       B       L       N       F       G       D       U      OS       E       A       T
+  COZUMU
+0. yukseklik: T
+1. yukseklik: F  A
+2. yukseklik: M  N  O  E
+3. yukseklik: I  --  R  L  G  U  S  --
+4. yukseklik: P  --  --  --  H  C  B  --  --  --  D  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  J  K  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 78 --------------
+
+Preorder siralama
+R       T       U       P       J       E       S       K       D       C       H       G       A       B       I      OL       F       N       M
+Inorder siralama
+J       P       E       U       K       S       T       C       D       R       B       A       I       G       O      HF       M       N       L
+Postorder siralama
+J       E       P       K       S       U       C       D       T       B       I       A       O       G       M      NF       L       H       R
+  COZUMU
+0. yukseklik: R
+1. yukseklik: T  H
+2. yukseklik: U  D  G  L
+3. yukseklik: P  S  C  --  A  O  F  --
+4. yukseklik: J  E  K  --  --  --  --  --  B  I  --  --  --  N  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  M  --  --  --  --  --
+------------Soru 79 --------------
+
+Preorder siralama
+J       A       P       F       N       G       O       U       B       T       S       L       R       I       H      KE       M       D       C
+Inorder siralama
+F       N       P       G       A       U       B       O       T       J       R       I       H       L       K      ES       M       D       C
+Postorder siralama
+N       F       G       P       B       U       T       O       A       H       I       R       E       K       L      CD       M       S       J
+  COZUMU
+0. yukseklik: J
+1. yukseklik: A  S
+2. yukseklik: P  O  L  M
+3. yukseklik: F  G  U  T  R  K  --  D
+4. yukseklik: --  N  --  --  --  B  --  --  --  I  --  E  --  --  --  C
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  H  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 80 --------------
+
+Preorder siralama
+E       G       H       S       N       U       D       R       O       C       I       K       M       F       A      BJ       T       L       P
+Inorder siralama
+N       S       H       D       U       G       C       O       R       E       K       M       I       B       A      TJ       F       P       L
+Postorder siralama
+N       S       D       U       H       C       O       R       G       M       K       B       T       J       A      PL       F       I       E
+  COZUMU
+0. yukseklik: E
+1. yukseklik: G  I
+2. yukseklik: H  R  K  F
+3. yukseklik: S  U  O  --  --  M  A  L
+4. yukseklik: N  --  D  --  C  --  --  --  --  --  --  --  B  J  P  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  T  --  --  --  --  --
+------------Soru 81 --------------
+
+Preorder siralama
+F       H       K       B       L       P       D       U       T       O       I       A       E       R       M      JS       N       C       G
+Inorder siralama
+L       B       K       U       D       P       T       H       E       A       R       I       O       F       J      SM       C       G       N
+Postorder siralama
+L       B       U       D       T       P       K       E       R       A       I       O       H       S       J      GC       N       M       F
+  COZUMU
+0. yukseklik: F
+1. yukseklik: H  M
+2. yukseklik: K  O  J  N
+3. yukseklik: B  P  I  --  --  S  C  --
+4. yukseklik: L  --  D  T  A  --  --  --  --  --  --  --  --  G  --  --
+5. yukseklik: --  --  --  --  U  --  --  --  E  R  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 82 --------------
+
+Preorder siralama
+H       N       P       F       E       K       A       O       G       M       B       T       U       L       J      RD       S       I       C
+Inorder siralama
+P       N       F       H       A       G       M       B       O       T       K       L       U       E       D      RJ       S       C       I
+Postorder siralama
+P       F       N       B       M       G       T       O       A       L       U       K       D       R       C      IS       J       E       H
+  COZUMU
+0. yukseklik: H
+1. yukseklik: N  E
+2. yukseklik: P  F  K  J
+3. yukseklik: --  --  --  --  A  U  R  S
+4. yukseklik: --  --  --  --  --  --  --  --  --  O  L  --  D  --  --  I
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  G  T  --  --  --  --  --  --  --  --  --  --  C  --
+------------Soru 83 --------------
+
+Preorder siralama
+I       K       G       D       C       O       S       N       U       E       H       B       T       F       A      JP       L       R       M
+Inorder siralama
+G       C       D       K       S       O       N       I       H       B       E       T       U       A       F      LP       M       R       J
+Postorder siralama
+C       D       G       S       N       O       K       B       H       T       E       A       L       M       R      PJ       F       U       I
+  COZUMU
+0. yukseklik: I
+1. yukseklik: K  U
+2. yukseklik: G  O  E  F
+3. yukseklik: --  D  S  N  H  T  A  J
+4. yukseklik: --  --  C  --  --  --  --  --  --  B  --  --  --  --  P  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  L  R  --  --
+------------Soru 84 --------------
+
+Preorder siralama
+N       C       T       A       L       R       H       E       B       S       I       U       K       O       P      FD       J       G       M
+Inorder siralama
+L       A       R       T       H       B       E       C       I       S       N       F       P       D       O      KU       J       G       M
+Postorder siralama
+L       R       A       B       E       H       T       I       S       C       F       D       P       O       K      MG       J       U       N
+  COZUMU
+0. yukseklik: N
+1. yukseklik: C  U
+2. yukseklik: T  S  K  J
+3. yukseklik: A  H  I  --  O  --  --  G
+4. yukseklik: L  R  --  E  --  --  --  --  P  --  --  --  --  --  --  M
+5. yukseklik: --  --  --  --  --  --  B  --  --  --  --  --  --  --  --  --  F  D  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 85 --------------
+
+Preorder siralama
+L       K       J       B       E       C       I       A       T       S       M       N       G       F       H      PO       U       D       R
+Inorder siralama
+E       B       J       A       I       C       K       T       S       L       G       N       H       P       F      MD       U       R       O
+Postorder siralama
+E       B       A       I       C       J       S       T       K       G       P       H       F       N       D      RU       O       M       L
+  COZUMU
+0. yukseklik: L
+1. yukseklik: K  M
+2. yukseklik: J  T  N  O
+3. yukseklik: B  C  --  S  G  F  U  --
+4. yukseklik: E  --  I  --  --  --  --  --  --  --  H  --  D  R  --  --
+5. yukseklik: --  --  --  --  A  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  P  --  --  --  --  --  --  --  --  --  --
+------------Soru 86 --------------
+
+Preorder siralama
+C       U       H       S       L       D       I       R       P       B       O       G       F       N       J      ET       K       M       A
+Inorder siralama
+L       S       D       H       R       I       U       O       B       P       G       C       N       F       E      JK       M       T       A
+Postorder siralama
+L       D       S       R       I       H       O       B       G       P       U       N       E       M       K      AT       J       F       C
+  COZUMU
+0. yukseklik: C
+1. yukseklik: U  F
+2. yukseklik: H  P  N  J
+3. yukseklik: S  I  B  G  --  --  E  T
+4. yukseklik: L  D  R  --  O  --  --  --  --  --  --  --  --  --  K  A
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  M  --  --
+------------Soru 87 --------------
+
+Preorder siralama
+U       H       J       N       S       A       E       T       I       L       B       R       M       G       F      PD       C       O       K
+Inorder siralama
+J       N       S       H       E       A       I       T       U       R       B       G       M       L       P      DF       O       C       K
+Postorder siralama
+S       N       J       E       I       T       A       H       R       G       M       B       D       P       O      KC       F       L       U
+  COZUMU
+0. yukseklik: U
+1. yukseklik: H  L
+2. yukseklik: J  A  B  F
+3. yukseklik: --  N  E  T  R  M  P  C
+4. yukseklik: --  --  --  S  --  --  I  --  --  --  G  --  --  D  O  K
+------------Soru 88 --------------
+
+Preorder siralama
+P       N       J       D       K       F       T       B       E       S       C       I       H       O       A      GM       U       L       R
+Inorder siralama
+J       D       N       T       F       B       E       K       P       H       O       A       I       C       M      GS       L       U       R
+Postorder siralama
+D       J       T       E       B       F       K       N       A       O       H       I       M       G       C      LR       U       S       P
+  COZUMU
+0. yukseklik: P
+1. yukseklik: N  S
+2. yukseklik: J  K  C  U
+3. yukseklik: --  D  F  --  I  G  L  R
+4. yukseklik: --  --  --  --  T  B  --  --  H  --  M  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  E  --  --  --  --  --  O  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 89 --------------
+
+Preorder siralama
+J       F       K       I       B       L       G       H       C       U       A       D       O       M       P      NT       R       S       E
+Inorder siralama
+B       I       L       G       K       C       U       H       F       D       A       M       O       P       J      TN       E       S       R
+Postorder siralama
+B       G       L       I       U       C       H       K       D       M       P       O       A       F       T      ES       R       N       J
+  COZUMU
+0. yukseklik: J
+1. yukseklik: F  N
+2. yukseklik: K  A  T  R
+3. yukseklik: I  H  D  O  --  --  S  --
+4. yukseklik: B  L  C  --  --  --  M  P  --  --  --  --  E  --  --  --
+5. yukseklik: --  --  --  G  --  U  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 90 --------------
+
+Preorder siralama
+O       S       P       F       U       E       M       I       R       G       K       D       J       A       L      HB       N       C       T
+Inorder siralama
+F       P       S       U       I       M       R       E       O       K       J       D       A       G       H      BL       N       C       T
+Postorder siralama
+F       P       I       R       M       E       U       S       J       A       D       K       B       H       T      CN       L       G       O
+  COZUMU
+0. yukseklik: O
+1. yukseklik: S  G
+2. yukseklik: P  U  K  L
+3. yukseklik: F  --  --  E  --  D  H  N
+4. yukseklik: --  --  --  --  --  --  M  --  --  --  J  A  --  B  --  C
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  I  R  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  T
+------------Soru 91 --------------
+
+Preorder siralama
+S       A       K       R       P       M       F       L       J       E       N       G       C       B       T      OD       I       U       H
+Inorder siralama
+A       K       R       P       S       L       J       F       N       E       G       M       O       T       B      ID       C       H       U
+Postorder siralama
+P       R       K       A       J       L       N       G       E       F       O       T       I       D       B      HU       C       M       S
+  COZUMU
+0. yukseklik: S
+1. yukseklik: A  M
+2. yukseklik: --  K  F  C
+3. yukseklik: --  --  --  R  L  E  B  U
+4. yukseklik: --  --  --  --  --  --  --  P  --  J  N  G  T  D  H  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  O  --  I  --  --  --  --  --
+------------Soru 92 --------------
+
+Preorder siralama
+T       B       R       I       O       U       D       N       C       L       P       H       F       E       S      MJ       G       K       A
+Inorder siralama
+I       R       D       U       O       B       C       L       N       T       F       H       E       P       M      JS       G       A       K
+Postorder siralama
+I       D       U       O       R       L       C       N       B       F       E       H       J       M       A      KG       S       P       T
+  COZUMU
+0. yukseklik: T
+1. yukseklik: B  P
+2. yukseklik: R  N  H  S
+3. yukseklik: I  O  C  --  F  E  M  G
+4. yukseklik: --  --  U  --  --  L  --  --  --  --  --  --  --  J  --  K
+5. yukseklik: --  --  --  --  D  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  A  --
+------------Soru 93 --------------
+
+Preorder siralama
+H       T       J       R       N       S       F       I       K       M       P       B       C       L       U      GE       D       A       O
+Inorder siralama
+J       R       T       S       N       F       I       H       M       P       B       C       L       K       E      GD       U       A       O
+Postorder siralama
+R       J       S       I       F       N       T       L       C       B       P       M       E       D       G      OA       U       K       H
+  COZUMU
+0. yukseklik: H
+1. yukseklik: T  K
+2. yukseklik: J  N  M  U
+3. yukseklik: --  R  S  F  --  P  G  A
+4. yukseklik: --  --  --  --  --  --  --  I  --  --  --  B  E  D  --  O
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  C  --  --  --  --  --  --  --  --
+------------Soru 94 --------------
+
+Preorder siralama
+H       G       N       L       I       M       A       T       R       O       B       K       P       J       F      UC       E       S       D
+Inorder siralama
+L       I       N       G       T       O       R       A       M       B       K       H       F       J       U      CP       S       E       D
+Postorder siralama
+I       L       N       O       R       T       A       K       B       M       G       F       C       U       J      SD       E       P       H
+  COZUMU
+0. yukseklik: H
+1. yukseklik: G  P
+2. yukseklik: N  M  J  E
+3. yukseklik: L  --  A  B  F  U  S  D
+4. yukseklik: --  I  --  --  T  --  --  K  --  --  --  C  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  R  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 95 --------------
+
+Preorder siralama
+I       N       D       A       M       T       C       P       L       G       E       S       J       H       B      RU       F       K       O
+Inorder siralama
+D       A       N       C       T       M       L       P       G       I       B       H       J       S       R      EO       K       F       U
+Postorder siralama
+A       D       C       T       L       G       P       M       N       B       H       J       R       S       O      KF       U       E       I
+  COZUMU
+0. yukseklik: I
+1. yukseklik: N  E
+2. yukseklik: D  M  S  U
+3. yukseklik: --  A  T  P  J  R  F  --
+4. yukseklik: --  --  --  --  C  --  L  G  H  --  --  --  K  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  B  --  --  --  --  --  --  --  O  --  --  --  --  --  --  --
+------------Soru 96 --------------
+
+Preorder siralama
+K       T       H       F       P       G       O       D       A       I       E       M       S       J       L      RN       C       U       B
+Inorder siralama
+P       G       F       H       O       T       I       A       D       K       S       J       M       E       R      LC       U       N       B
+Postorder siralama
+G       P       F       O       H       I       A       D       T       J       S       M       R       U       C      BN       L       E       K
+  COZUMU
+0. yukseklik: K
+1. yukseklik: T  E
+2. yukseklik: H  D  M  L
+3. yukseklik: F  O  A  --  S  --  R  N
+4. yukseklik: P  --  --  --  I  --  --  --  --  J  --  --  --  --  C  B
+5. yukseklik: --  G  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  U  --  --
+------------Soru 97 --------------
+
+Preorder siralama
+R       G       C       A       B       D       T       F       N       J       O       H       L       E       P      IS       U       M       K
+Inorder siralama
+B       A       D       C       G       N       F       T       J       H       O       R       P       E       L      SI       M       K       U
+Postorder siralama
+B       D       A       C       N       F       H       O       J       T       G       P       E       S       K      MU       I       L       R
+  COZUMU
+0. yukseklik: R
+1. yukseklik: G  L
+2. yukseklik: C  T  E  I
+3. yukseklik: A  --  F  J  P  --  S  U
+4. yukseklik: B  D  --  --  N  --  --  O  --  --  --  --  --  --  M  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  H  --  --  --  --  --  --  --  --  --  --  --  --  --  --  K  --  --
+------------Soru 98 --------------
+
+Preorder siralama
+F       T       O       A       H       L       I       P       N       D       K       R       U       S       E      GB       J       C       M
+Inorder siralama
+H       A       L       O       I       T       D       N       K       P       F       E       S       B       G      UR       C       J       M
+Postorder siralama
+H       L       A       I       O       D       K       N       P       T       E       B       G       S       U      CM       J       R       F
+  COZUMU
+0. yukseklik: F
+1. yukseklik: T  R
+2. yukseklik: O  P  U  J
+3. yukseklik: A  I  N  --  S  --  C  M
+4. yukseklik: H  L  --  --  D  K  --  --  E  G  --  --  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  B  --  --  --  --  --  --  --  --  --  --  --  --  --
+------------Soru 99 --------------
+
+Preorder siralama
+N       D       P       J       M       L       A       T       O       F       R       G       K       C       U      IB       H       E       S
+Inorder siralama
+P       J       D       A       L       M       O       T       F       N       K       C       G       I       B      UH       R       E       S
+Postorder siralama
+J       P       A       L       O       F       T       M       D       C       K       B       I       H       U      GS       E       R       N
+  COZUMU
+0. yukseklik: N
+1. yukseklik: D  R
+2. yukseklik: P  M  G  E
+3. yukseklik: --  J  L  T  K  U  --  S
+4. yukseklik: --  --  --  --  A  --  O  F  --  C  I  H  --  --  --  --
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  B  --  --  --  --  --  --  --  --  --  --
+------------Soru 100 --------------
+
+Preorder siralama
+P       K       B       N       L       I       U       M       O       J       E       R       S       D       H      AF       C       T       G
+Inorder siralama
+L       N       B       I       U       K       O       M       J       P       D       S       R       E       H      FA       T       C       G
+Postorder siralama
+L       N       U       I       B       O       J       M       K       D       S       R       F       T       G      CA       H       E       P
+  COZUMU
+0. yukseklik: P
+1. yukseklik: K  E
+2. yukseklik: B  M  R  H
+3. yukseklik: N  I  O  J  S  --  --  A
+4. yukseklik: L  --  --  U  --  --  --  --  D  --  --  --  --  --  F  C
+5. yukseklik: --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  T  G
+D:\SDÜ 2.Sınıf\Veri Yapıları ve Algoritmaları\Tree\CreateRandomBinaryTree\x64\Debug\CreateRandomBinaryTree.exe (process 3052) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

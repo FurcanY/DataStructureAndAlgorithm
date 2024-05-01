@@ -1,0 +1,6 @@
+﻿  list.c
+D:\SDÜ 2.Sınıf\Veri Yapıları ve Algoritmaları\Linked List\TekYonluBagliListe\TekYonluBagliListe\list.c(56,14): warning C4013: 'uzunlukGetir' undefined; assuming extern returning int
+D:\SDÜ 2.Sınıf\Veri Yapıları ve Algoritmaları\Linked List\TekYonluBagliListe\TekYonluBagliListe\list.c(111,27): warning C4047: 'function': 'dugum **' differs in levels of indirection from 'dugum *'
+D:\SDÜ 2.Sınıf\Veri Yapıları ve Algoritmaları\Linked List\TekYonluBagliListe\TekYonluBagliListe\list.c(111,13): warning C4024: 'BastanSil': different types for formal and actual parameter 1
+D:\SDÜ 2.Sınıf\Veri Yapıları ve Algoritmaları\Linked List\TekYonluBagliListe\TekYonluBagliListe\list.c(131,10): warning C4047: 'initializing': 'dugum **' differs in levels of indirection from 'dugum *'
+  TekYonluBagliListe.vcxproj -> D:\SDÜ 2.Sınıf\Veri Yapıları ve Algoritmaları\Linked List\TekYonluBagliListe\x64\Debug\TekYonluBagliListe.exe
