@@ -100,7 +100,7 @@
 | 12.Hafta | ağaç sıralama                    |
 | 13.Hafta | graph giriş                      |
 | 14.Hafta | final                            |
-```
+
 
 ## :rose: Belki Bakarsın Diye Bırakıyorum :rose:
 ####  GitHub adresime [buradan](https://github.com/FurcanY) ulaşabilirsiniz.
