@@ -13,6 +13,7 @@ struct dugum* olustur(int _veri) {
 	yeniDugum->veri = _veri;
 	yeniDugum->onceki = NULL;
 	yeniDugum->sonraki = NULL;
+	
 	return yeniDugum;
 }
 //------------- Listeyi Yazdirma Metodu -------------------
